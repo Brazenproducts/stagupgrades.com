@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stagupgrades.com/sitemap.xml
