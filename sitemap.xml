@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://stagupgrades.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://stagupgrades.com/best-polaris-xpedition-upgrades.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagupgrades.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagupgrades.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagupgrades.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagupgrades.com/stagupgrades-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://stagupgrades.com/no-bs-stagupgrades-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://stagupgrades.com/stagupgrades-quality-vs-marketing.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://stagupgrades.com/stagupgrades-what-buyers-need-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://stagupgrades.com/stagupgrades-market-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://stagupgrades.com/how-to-pick-stagupgrades-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://stagupgrades.com/truth-about-stagupgrades-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://stagupgrades.com/smart-stagupgrades-shopping-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://stagupgrades.com/best-stagupgrades-without-overpaying.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://stagupgrades.com/stagupgrades-buyers-handbook-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://stagupgrades.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
